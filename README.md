@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Ibukunoluwa Ogunnaike
+*An Aspiring Data Scientist*
 
-You can use the [editor on GitHub](https://github.com/Ibukun-Ogunnaike/Ibukun_Ogunnaike_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Education
+* Fellow at Womem Techsters at Tech4Dev (Data Science Track), March,2021- Present
+* Mentee at SheCodeAfrica *Cohort 4*, March-May,2021
+* Bachelors of Science (Economics), *Obafemi Awolowo University*, 2018-present
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# [Project 1:The Effect of Climate Change on Crop Production ](https://github.com/Women-Techsters-Fellowship-2021/Climate-Change-and-Crop-Production)
+This project using python libraries to predict the effect of climate change on crop prodution across four differnt African countries.
+* **Python libraries used:** Pandas,Numpy, Matplotlib,
+* **Input:** Data Set from Kaggle
+* **Output:** 
 
-### Markdown
+# [Project 2: ](https://github.com/Ibukun-Ogunnaike/SCAMP-EDA-on-The-US-Unemployment-Rate-Ibukunoluwa-Ogunaike-1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This project is an exploratory data analysis on the US unemployment dataset for 1990-2016
+* **Python libraries used:** Pandas,Numpy,Matplotlib
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# [Article 1:](https://ibukunogunnaike.medium.com/covid-19-vaccination-how-far-have-we-gone-bb24f0d249ca)
 
-- Bulleted
-- List
+This article was written to explain the visualization of The World’s Covid-19 Vaccination Progress Using Tableau.
 
-1. Numbered
-2. List
+#[Article 2:](https://medium.com/analytics-vidhya/beginners-guide-to-probability-and-statistics-for-data-science-b08a6ff1d9b4)
 
-**Bold** and _Italic_ and `Code` text
+This article serves as a Beginners guide to Probability and statistics for Data Science
 
-[Link](url) and ![Image](src)
-```
+#Skills
+* **Python(Pandas,Numpy,SckitLearn,Django, Matplotlib)
+* **SQL(MySQL, MondoDB, SQLite)
+* **Git and GITHub
+* **Web Scraping
+* **Excel
+* **Data Modeling
+* **Data Visualization with Tableau
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ibukun-Ogunnaike/Ibukun_Ogunnaike_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#Work Experience
+* **Facilitator at Women In Data Science, Ile-Ife,Nigeria *2020-Present*
+* **Facilitator at OSCA,Ife, June,2021-Present*

@@ -33,13 +33,13 @@ This article was written to explain the visualization of The World’s Covid-19 
 
 This article serves as a Beginners guide to Probability and statistics for Data Science
 
-Contacts
+# Contacts
 * **[Email](ibukunoguns21@gmail.com)
 * **[LinkedIn](https://www.linkedin.com/in/ibukunoluwa-ogunnaike/)
 * **[GitHub](https://github.com/Ibukun-Ogunnaike)
 * **[Twitter](https://twitter.com/IBK_TheCodess)
 
-#Skills
+# Skills
 * **Python(Pandas,Numpy,SckitLearn,Django, Matplotlib)
 * **SQL(MySQL, MondoDB, SQLite)
 * **Git and GITHub
@@ -48,6 +48,6 @@ Contacts
 * **Data Modeling
 * **Data Visualization with Tableau
 
-#Work Experience
+# Work Experience
 * **Facilitator at Women In Data Science, Ile-Ife,Nigeria *2020-Present*
 * **Facilitator at OSCA,Ife, June,2021-Present*

@@ -26,11 +26,9 @@ This project is an exploratory data analysis on the US unemployment dataset for 
 
 
 # [Article 1:](https://ibukunogunnaike.medium.com/covid-19-vaccination-how-far-have-we-gone-bb24f0d249ca)
-
 This article was written to explain the visualization of The World’s Covid-19 Vaccination Progress Using Tableau.
 
 # [Article 2:](https://medium.com/analytics-vidhya/beginners-guide-to-probability-and-statistics-for-data-science-b08a6ff1d9b4)
-
 This article serves as a Beginners guide to Probability and statistics for Data Science
 
 # Contacts
@@ -50,4 +48,4 @@ This article serves as a Beginners guide to Probability and statistics for Data 
 
 # Work Experience
 * **Facilitator at Women In Data Science, Ile-Ife,Nigeria *2020-Present*
-* **Facilitator at OSCA,Ife, June,2021-Present*
+* **Facilitator at OSCA,Ife, June, *2021-Present*

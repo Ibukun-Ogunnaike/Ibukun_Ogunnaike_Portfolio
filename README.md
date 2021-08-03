@@ -7,7 +7,7 @@
 * Bachelors of Science (Economics), *Obafemi Awolowo University*, 2018-present
 
 # [Project 1:The Effect of Climate Change on Crop Production ](https://github.com/Women-Techsters-Fellowship-2021/Climate-Change-and-Crop-Production)
-![alt text](wesley-tingey-oPxXsjTMDTA-unsplash (1).jpg)
+![alt text](wesley-tingey-oPxXsjTMDTA-unsplash.jpg (1))
 
 Photo by <a href="https://unsplash.com/@wesleyphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Wesley Tingey</a> on <a href="https://unsplash.com/s/photos/climate-change?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
 

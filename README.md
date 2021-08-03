@@ -7,9 +7,9 @@
 * Bachelors of Science (Economics), *Obafemi Awolowo University*, 2018-present
 
 # [Project 1:The Effect of Climate Change on Crop Production ](https://github.com/Women-Techsters-Fellowship-2021/Climate-Change-and-Crop-Production)
-![alt text](wesley-tingey-oPxXsjTMDTA-unsplash.jpg (1))
+![alt text](muhammad-numan-ZVgxiKJlMk0-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@wesleyphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Wesley Tingey</a> on <a href="https://unsplash.com/s/photos/climate-change?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
+Photo by <a href="https://unsplash.com/@numaninsari?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Muhammad Numan</a> on <a href="https://unsplash.com/s/photos/climate-change?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
 
 This project using python libraries to predict the effect of climate change on crop prodution across four differnt African countries.
 * **Python libraries used:** Pandas,Numpy, Matplotlib,
@@ -17,7 +17,7 @@ This project using python libraries to predict the effect of climate change on c
 
 
 # [Project 2: ](https://github.com/Ibukun-Ogunnaike/SCAMP-EDA-on-The-US-Unemployment-Rate-Ibukunoluwa-Ogunaike-1)
-![alt text](jonathan-rados-Sbxt82CsMxA-unsplash.jpg (1))
+![alt text](jonathan-rados-Sbxt82CsMxA-unsplash.jpg (2))
 
 Photo by <a href="https://unsplash.com/@jonathanrados?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonathan Rados</a> on <a href="https://unsplash.com/s/photos/unemployment?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 

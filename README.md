@@ -33,7 +33,7 @@ This project is an exploratory data analysis on the US unemployment dataset for 
 This article was written to explain the visualization of The World’s Covid-19 Vaccination Progress Using Tableau.
 
 * [Beginners Guide To Probability and Statistics for Data Science](https://medium.com/analytics-vidhya/beginners-guide-to-probability-and-statistics-for-data-science-b08a6ff1d9b4)
-This article serves as a Beginners guide to Probability and statistics for Data Science
+This article serves as a Beginners guide to Probability and statistics for Data Science.
 
 
 # Skills

@@ -1,6 +1,6 @@
 # Ibukunoluwa Ogunnaike
 *Astute and result-driven Data Science Enthusiast, strong analytical competence. Skilled in data visualization and
-analysis with Tableau and PowerBI.Strong proficiency in Python libraries including numpy, pandas, matplotlib to perform data analysis. Seeks to
+analysis with Tableau and PowerBI. Strong proficiency in Python libraries including numpy, pandas, matplotlib to perform data analysis. Seeks to
 analyze practical business and organizational challenges and develop working solutions through improved skills in
 data science.*
 

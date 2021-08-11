@@ -16,10 +16,12 @@ data science.*
 # Projects
 * **The Effect of Climate Change on Crop Production** (https://github.com/Women-Techsters-Fellowship-2021/Climate-Change-and-Crop-Production)
 This project using python libraries to predict the effect of climate change on crop prodution across four differnt African countries.
+
 ###Python libraries used:** Pandas,Numpy, Matplotlib
 
 * **Explorative Data Analysis On USA's Unemployment Rate** (https://github.com/Ibukun-Ogunnaike/SCAMP-EDA-on-The-US-Unemployment-Rate-Ibukunoluwa-Ogunaike-1)
 This project is an exploratory data analysis on the US unemployment dataset for 1990-2016
+
 ##Python libraries used:** Pandas,Numpy,Matplotlib
 
 # Articles

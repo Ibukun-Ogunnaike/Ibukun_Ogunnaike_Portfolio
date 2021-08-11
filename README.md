@@ -10,8 +10,8 @@ data science.*
 * Bachelors of Science (Economics), *Obafemi Awolowo University*, 2018-present
 
 # Work Experience
-* Facilitator at Women In Data Science, Ile-Ife,Nigeria *2020-Present
-* Facilitator at OSCA,Ife, June, *2021-Present
+* Training Facilitator *Women In Data Science, Ile-Ife,Nigeria* 2020-Present
+* Facilitator, *OSCA,Ife* June,2021-Present
 
 # Projects
 * The Effect of Climate Change on Crop Production(https://github.com/Women-Techsters-Fellowship-2021/Climate-Change-and-Crop-Production)

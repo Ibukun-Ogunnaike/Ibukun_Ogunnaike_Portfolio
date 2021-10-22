@@ -7,13 +7,17 @@ data science.*
 # Education
 * Fellow at Women Techsters, *Tech4Dev (Data Science Track)*, March,2021- Present
 * Mentee at SheCodeAfrica *Cohort 4*, March-May,2021
-* Bachelors of Science (Economics), *Obafemi Awolowo University*, 2018-present
+* Bachelors of Science (Economics), *Obafemi Awolowo University*, 2018-2022
 
 # Work Experience
 * Training Facilitator *Women In Data Science, Ile-Ife,Nigeria* 2020-Present
 * Facilitator, *OSCA,Ife* June,2021-Present
 
 # Projects
+* **A digital marketplace for artisans** (https://61559eb39e925c1965191738--thirsty-goldwasser-58b96f.netlify.app/)
+As a member of the data analysis team, I conducted a survey to pull in data from various countries and perform market research on the validity of the product.
+I then visualized the data with Tableau to create inferences, which showed that the proposed product was viable.
+
 * **The Effect of Climate Change on Crop Production** (https://github.com/Women-Techsters-Fellowship-2021/Climate-Change-and-Crop-Production)
 This project using python libraries to predict the effect of climate change on crop prodution across four differnt African countries.
 **Python libraries used:** Pandas,Numpy, Matplotlib

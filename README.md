@@ -10,6 +10,7 @@ data science.*
 * Bachelors of Science (Economics), *Obafemi Awolowo University*, 2018-2022
 
 # Work Experience
+* Data Entry Operator *GraceSpring Christain Center, Ile-fe,Nigeria* January,2021- Present
 * Training Facilitator *Women In Data Science, Ile-Ife,Nigeria* 2020-Present
 * Facilitator, *OSCA,Ife* June,2021-Present
 
